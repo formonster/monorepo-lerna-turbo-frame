@@ -1,0 +1,3 @@
+[submodule "packages/git-test"]
+	path = packages/git-test
+	url = https://github.com/formonster/git-test.git
