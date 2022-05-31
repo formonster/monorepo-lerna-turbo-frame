@@ -1,6 +1,3 @@
 [submodule "packages/git-test"]
 	path = packages/git-test
 	url = https://github.com/formonster/git-test.git
-[submodule "packages/create"]
-	path = packages/create
-	url = git@github.com:formonster/-d-create.git
